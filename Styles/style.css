@@ -1,0 +1,195 @@
+body {
+    font-family: Roboto;
+    font-style: normal;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
+
+h1 {
+    margin: 0;
+    padding-top: 48px;
+    color: #007765;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.container {
+    margin: 0;
+    width: 100%;
+    height: 84px;
+    background-color: rgba(0, 119, 101, 1);
+}
+
+.header_container {
+    max-width: 1219px;
+    margin: auto;
+}
+
+.logo {
+    width: auto;
+    height: 45px;
+    margin-top: 20px;
+    margin-left: 55px;
+}
+
+.menu_container {
+    float: right;
+    margin-top: 28px;
+    margin-right: 54px;
+}
+
+.menu_container a {
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: none;
+    text-align: center;
+    line-height: normal;
+}
+
+.main_container1 {
+    color: #fff;
+    height: 403px;
+    position: relative;
+    background: url("image.png");
+    background-size: cover;
+}
+
+.main_container1 .img1 {
+    font-size: 72px;
+    font-weight: 500;
+    line-height: 84px;
+    letter-spacing: 0em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.main_content {
+    color: #000;
+}
+
+.content {
+    max-width: 1110px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+
+.box1 {
+    background: #eee;
+}
+
+.box2 {
+    background: #fff;
+}
+
+.content p {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: normal;
+    text-align: justify;
+}
+
+.containerrr {
+    box-sizing: border-box;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+  }
+  
+  .hero {
+    padding-top: 128px;
+    padding-bottom: 128px;
+    background-image: url("image2.png");
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  .hero__message {
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #fff;
+  }
+
+.ppc_logo {
+    float: left;
+    width: 115px;
+    height: 115px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 55px;
+}
+
+.boxteam {
+    padding-bottom: 80px;
+}
+
+.team_row {
+    display: flex;
+    margin: auto;
+    max-width: 1110px;
+}
+
+.team {
+    width: 370px;
+    height: 283px;
+    margin-top: 56px;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team_photo {
+    height: 168px;
+    width: 168px;
+}
+
+.team figcaption {
+    text-align: center;
+}
+
+.name {
+    color: #007765;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 12px;
+}
+
+.position {
+    color: #000;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container_footer {
+    height: 176px;
+    background: #333;
+}
+
+.container_footer p {
+    margin: auto;
+    max-width: 540px;
+    padding: 48px 339px 64px 340px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+}
